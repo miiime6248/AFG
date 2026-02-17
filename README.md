@@ -1,4 +1,4 @@
-# MIIIME Icon Changer (MIC™)
+# Auto File Generator (AFG™)
 MIIIMEIconChanger · 미메아이콘체인저
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
