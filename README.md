@@ -2,6 +2,7 @@
 AutoFileGenerator · 자동파일생성기
 
 ![OS](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&style=flat-square)
+![Arch](https://img.shields.io/badge/Architecture-x86-blue?style=flat-square)
 [![Language](https://img.shields.io/badge/Language-AutoIt-orange?logo=autoit&style=flat-square)](https://www.autoitscript.com/site/)
 ![License](https://img.shields.io/badge/License-Freeware-lightgrey?style=flat-square)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-6%2F72_Detected-red?logo=virustotal&style=flat-square)](https://www.virustotal.com/gui/file/7f164c77ac0a58f367fd936ac662284f2be52755e39767a2f19a90d0e2593280?nocache=1)
